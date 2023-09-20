@@ -1,4 +1,4 @@
-# cop4600-assignment1-cpu-virtualization
+cpu-virtualization
 
 This repository contains two C programs, `problem1.c` and `problem2.c`, developed as part of the COP4600 Operating Systems course assignment.
 
